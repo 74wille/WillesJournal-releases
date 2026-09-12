@@ -4,7 +4,10 @@
 
 <h1 align="center">Wille's Journal</h1>
 
-<p align="center">Trading journal for Windows and Mac.</p>
+<p align="center">
+  <b>The complete trading journal for Windows and Mac.</b><br>
+  Log every trade, understand your performance and improve together with your mentor and community.
+</p>
 
 <p align="center">
   <a href="https://github.com/74wille/WillesJournal-releases/releases/latest/download/WilleJournal-Setup.exe">
@@ -24,6 +27,19 @@
   </a>
 </p>
 
+## Features
+
+- **Trade journal** — log trades with screenshots, setups, emotions and notes. Supports futures, micro contracts and CFDs.
+- **In-depth statistics** — equity curve, win/loss distribution, streaks and results by instrument, session, setup, weekday and emotion.
+- **Daily recaps & weekly reviews** — recap every trading day with screenshots, review your week and follow your results in the calendar.
+- **Playbook & forward testing** — document your setups and forward-test new strategies before you trade them live.
+- **Multiple accounts** — keep every trading account organized in one place.
+- **Community** — real-time chat, shared trades, signals and trader profiles.
+- **Academy & mentorship** — video lessons, voice notes and direct mentor feedback on your trades.
+- **Market news** — built-in economic calendar and live Financial Juice news feed.
+- **Make it yours** — themes, accent colors and a fully customizable dashboard.
+- **Always up to date** — new versions download and install automatically.
+
 ## Install
 
 **Windows**
@@ -41,5 +57,6 @@ That's it. New versions download and install automatically in the background.
 >
 > **Mac won't open the app?** It isn't notarized by Apple. Right-click the app → **Open**,
 > or go to **System Settings → Privacy & Security → Open Anyway**.
+
 
 
