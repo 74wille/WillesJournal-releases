@@ -4,17 +4,17 @@
 
 <h1 align="center">Wille's Journal</h1>
 
-<p align="center">Trading journal for Windows and macOS.</p>
+<p align="center">Trading journal for Windows and Mac.</p>
 
 <p align="center">
   <a href="https://github.com/74wille/WillesJournal-releases/releases/latest/download/WilleJournal-Setup.exe">
-    <img src="https://img.shields.io/badge/Download_for_Windows-WilleJournal--Setup.exe-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows">
+    <img src="https://img.shields.io/badge/Download_for_Windows-WilleJournal--Setup.exe-2ea44f?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNCA5LjggMnY5LjVIMHpNMTEgMS44IDI0IDB2MTEuNUgxMXpNMCAxMi41aDkuOFYyMkwwIDIwLjZ6TTExIDEyLjVoMTNWMjRsLTEzLTEuOHoiLz48L3N2Zz4%3D" alt="Download for Windows">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/74wille/WillesJournal-releases/releases/latest/download/WilleJournal-Setup.dmg">
-    <img src="https://img.shields.io/badge/Download_for_macOS-WilleJournal--Setup.dmg-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS">
+    <img src="https://img.shields.io/badge/Download_for_Mac-WilleJournal--Setup.dmg-2ea44f?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac">
   </a>
 </p>
 
@@ -30,8 +30,8 @@
 1. Click **Download for Windows** above.
 2. Run `WilleJournal-Setup.exe` — it installs and starts automatically.
 
-**macOS**
-1. Click **Download for macOS** above.
+**Mac**
+1. Click **Download for Mac** above.
 2. Open `WilleJournal-Setup.dmg` and drag **Wille's Journal** into **Applications**.
 
 That's it. New versions download and install automatically in the background.
@@ -39,6 +39,7 @@ That's it. New versions download and install automatically in the background.
 > **Windows protected your PC?** The installer isn't code-signed, so SmartScreen may warn you.
 > Click **More info → Run anyway**.
 >
-> **macOS won't open the app?** It isn't notarized by Apple. Right-click the app → **Open**,
+> **Mac won't open the app?** It isn't notarized by Apple. Right-click the app → **Open**,
 > or go to **System Settings → Privacy & Security → Open Anyway**.
+
 
