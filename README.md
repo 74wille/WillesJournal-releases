@@ -10,6 +10,9 @@
   <a href="https://github.com/74wille/WillesJournal-releases/releases/latest/download/WilleJournal-Setup.exe">
     <img src="https://img.shields.io/badge/Download_for_Windows-WilleJournal--Setup.exe-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows">
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/74wille/WillesJournal-releases/releases/latest/download/WilleJournal-Setup.dmg">
     <img src="https://img.shields.io/badge/Download_for_macOS-WilleJournal--Setup.dmg-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS">
   </a>
@@ -38,3 +41,4 @@ That's it. New versions download and install automatically in the background.
 >
 > **macOS won't open the app?** It isn't notarized by Apple. Right-click the app → **Open**,
 > or go to **System Settings → Privacy & Security → Open Anyway**.
+
